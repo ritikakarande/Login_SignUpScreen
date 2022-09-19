@@ -1,0 +1,34 @@
+{
+  "person":[
+     {
+       "name": "Bob",
+       "age": "16",
+       "employed": "No"
+     },
+     {
+       "name": "Vinny",
+       "age": "66",
+       "employed": "Yes"
+     },
+{
+       "name": "Ritika",
+       "age": "71",
+       "employed": "Yes"
+     },
+{
+       "name": "Anam",
+       "age": "56",
+       "employed": "Yes"
+     },
+{
+       "name": "Pam",
+       "age": "50",
+       "employed": "Yes"
+     },{
+       "name": "Kiran",
+       "age": "42",
+       "employed": "Yes"
+     }
+
+  ]
+}
