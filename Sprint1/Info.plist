@@ -22,12 +22,6 @@
 		</dict>
 	</dict>
 	<key>NSFaceIDUsageDescription</key>
-	<string>Plese permit for Face ID usage</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Please allow app to access your location</string>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Please allow app to access your location</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Please allow app to access your location</string>
+	<string>Give Access</string>
 </dict>
 </plist>
